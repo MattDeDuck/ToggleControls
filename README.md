@@ -1,7 +1,7 @@
 # Toggle Controls
 Toggle Controls is a mod made with BepInEx for use with the Potion Craft: Alchemist Simulator game. It gives you the ability to use a toggle key to stir your cauldron, grind your ingredient and use your ladle!
 
-Now updated to work with the Potion Craft: Aclhemist Simulator v1.0.2.1
+Works Potion Craft: Alchemist Simulator v1.0.2.1
 
 ### BepInEx
 - Download the latest BepInEx 5 release from [here](https://github.com/BepInEx/BepInEx/releases)
